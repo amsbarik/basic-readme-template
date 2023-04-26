@@ -152,3 +152,4 @@ https://www.abzus.com
 |Muktar| +88 01712-XXXXXX| Dhaka|
 |Kanon| +88 01423-XXXXXX| Gazipur|
 |Helena| +88 01632-XXXXXX| Dhaka|
+|Megh| +88 01622-XXXXXXX| Dhaka|
